@@ -22,6 +22,7 @@ Google Apps Script・Python・VBA を使った自動化ツールで解決して�
 - 📊 [freee-crowdworks-gas](https://github.com/mamagotolab/freee-crowdworks-gas) — クラウドワークスの報酬CSVをfreeeへ自動仕訳（GAS・OAuth2＋Web UI）
 - 🔎 [price-watcher](https://github.com/mamagotolab/price-watcher) — 競合価格やニュースなど、指定ページの変化を見張って通知（Python・robots.txt遵守）
 - 🧹 [master-checker](https://github.com/mamagotolab/master-checker) — 顧客・商品マスタの重複/空欄/表記ゆれを、自動化を動かす前に一括点検（CLI・pip不要）
+- 📋 [workflow-flight-recorder](https://github.com/mamagotolab/workflow-flight-recorder) — 操作を1回記録するだけで手順書を作り、同じ登録をCSVで連続入力（Chrome拡張・入力値は記録しない）
 
 ### ご依頼・ご相談
 
